@@ -1,7 +1,7 @@
 # Grid-Connected-Solar-PV-System
 
 ## What was built
-A model of a simulated solar arrays that is connected to the grid.
+A simulated model of solar arrays that is connected to the grid.
 
 ## How it works
 ## Solar Array and Capacitor ## 
